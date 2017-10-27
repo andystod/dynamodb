@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/andystod/dynamodb#readme",
   "dependencies": {
+    "dotenv": "^4.0.0",
     "dynamoose": "^0.8.5",
     "proxy-agent": "^2.1.0"
   }
